@@ -1,0 +1,17 @@
+{ 
+    "format_version": 1,
+    "header": {
+        "name": "Ridable Spider By spoiled_kitten",
+        "description": "Spiders you can ride and that follow you!-Subscribe to spoiled_kitten on YouTube",
+        "uuid": "fb5ae0ac-e1d0-4e42-bd68-ad803340a766",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Spiders you can ride and that follow you!-Subscribe to spoiled_kitten on YouTube",
+            "type": "data",
+            "uuid": "7b288c17-68d8-4be7-9ec7-0d3563a21a90",
+            "version": [0, 0, 1]
+        }
+    ]
+}
